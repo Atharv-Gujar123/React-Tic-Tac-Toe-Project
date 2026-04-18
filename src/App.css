@@ -7,7 +7,10 @@
   --O: #ef4444;
   --Resetbg: #334155;
   --Resetbr: #475569;
+<<<<<<< HEAD
   
+=======
+>>>>>>> d103576b9d217e709d7142c351cbccd465208804
   --ResetTxt: #e5e7eb;
   --Resethvr: #1e293b;
   --hvrclr: #64748b;
@@ -33,7 +36,11 @@ body {
   background-color: var(--bg);
 }
 .Winner {
+<<<<<<< HEAD
    color: var(--Winner);
+=======
+   color: var(--Winner)
+>>>>>>> d103576b9d217e709d7142c351cbccd465208804
 }
 .Container {
   height: 70vh;

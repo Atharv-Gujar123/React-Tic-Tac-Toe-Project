@@ -48,9 +48,12 @@ function App() {
       setDisable(Array(9).fill(true));
     }
   }, [Win, Tie]);
+<<<<<<< HEAD
 
 
    
+=======
+>>>>>>> d103576b9d217e709d7142c351cbccd465208804
   return (
     <>
       <ThemeButton />
